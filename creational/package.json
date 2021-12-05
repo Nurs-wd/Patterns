@@ -1,0 +1,13 @@
+{
+  "name": "creational",
+  "version": "1.0.0",
+  "description": "",
+  "main": "constructor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node constructor.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
